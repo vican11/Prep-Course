@@ -14,7 +14,7 @@
 
 # Primeros Pasos
 
-#### Preparando tu compu
+#### Preparando tu computadora
 
 <div class="iframeContainer">
   <iframe src="https://player.vimeo.com/video/638636752" title="Instructivo de Primeros Pasos" allow="autoplay; fullscreen"></iframe>
